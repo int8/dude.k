@@ -1,7 +1,7 @@
 [project]
-name = "dudek"
-version = "0.1.0"
-description = "SoccerNet challenge development kit"
+name = "dude.k"
+version = "0.1.1"
+description = "2025 SoccerNet challenge development kit"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [

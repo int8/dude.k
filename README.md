@@ -18,6 +18,12 @@ Contribution:
 ## Installation
 
 ```bash
+pip install dude.k
+```
+
+Or clone the repo at https://github.com/int8/dude.k and run 
+
+```bash
 uv sync
 uv pip install -e .  
 ```
