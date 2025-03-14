@@ -9,7 +9,7 @@ SN_BAS_2025_DATASET_PATH = os.getenv("SN_BAS_2025_DATASET_PATH")
 
 EXPERIMENTS_RANDOM_SEED = os.getenv("EXPERIMENTS_RANDOM_SEED", 42)
 TEST_SET_CHALLENGE_SEED = 116
-_FUCKED_UP_VIDEOS = [
+_VIDEOS_WITH_FPS_PROBLEMS = [
     "italy_serie-a/2016-2017/2016-10-02 - 21-45 AS Roma 2 - 1 Inter/1_720p.mkv",
     "italy_serie-a/2016-2017/2016-10-02 - 21-45 AS Roma 2 - 1 Inter/2_720p.mkv",
     "italy_serie-a/2016-2017/2016-09-11 - 16-00 AC Milan 0 - 1 Udinese/1_720p.mkv",
